@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-05-01 11:58+0200\n"
-"PO-Revision-Date: 2009-03-14 02:03+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2009-05-20 13:08+0100\n"
+"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
+"Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:18
@@ -24,42 +26,42 @@ msgstr ""
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:23
 msgid "Fighter"
-msgstr ""
+msgstr "Bojovník"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:23
 msgid "(Normal)"
-msgstr ""
+msgstr "(normální)"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:23
 msgid "(Beginner)"
-msgstr ""
+msgstr "(lehoučká)"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:23
 msgid "Citizen"
-msgstr ""
+msgstr "Obyvatel"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:24
 msgid "(Challenging)"
-msgstr ""
+msgstr "(nelehká)"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:24
 msgid "Warrior"
-msgstr ""
+msgstr "Válečník"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:25
 msgid "(Difficult)"
-msgstr ""
+msgstr "(náročná)"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:25
 msgid "Triton"
-msgstr ""
+msgstr "Triton"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:31
@@ -75,21 +77,32 @@ msgid ""
 "\n"
 "Version 0.9.16"
 msgstr ""
+"Jsi Kai Krellis, král mořského lidu, zatím však spíše dítě. Přitáhl "
+"nekromancer a dělá z tvých poddaných nemrtvé otroky! Veď svůj lid, splňte "
+"poslání a přesvědčte mocnou mořskou pannu, aby vám pomohla zapudit vetřelce. "
+"Vody oceánu u pobřeží Severu jsou nebezpečné, takže budeš potřebovat k "
+"přežití dostatek rafinovanosti a statečnosti, ale především budeš potřebovat "
+"získat respekt u svých vojáků!\n"
+"\n"
+"(Obtížnost: pokročilý hráč, 10 hratelných scénářů)\n"
+"\n"
+"Verze 0.9.16"
 
 #. [about]
 #: Dead_Water/_main.cfg:34
 msgid "Campaign Design, Programming, and Artwork"
-msgstr ""
+msgstr "Design kampaně, programování a art"
 
 #. [about]
 #: Dead_Water/_main.cfg:40
 msgid "Suggestions and Balancing"
-msgstr ""
+msgstr "Návrhy a vyvažování kampaně"
 
+# raději bez vykřičníku
 #. [scenario]: id=Invasion
 #: Dead_Water/scenarios/01_Invasion.cfg:9
 msgid "Invasion!"
-msgstr ""
+msgstr "Invaze"
 
 #. [part]
 #: Dead_Water/scenarios/01_Invasion.cfg:18
@@ -100,6 +113,12 @@ msgid ""
 "eyes. Still, none could match the strength of the mermen in their aquatic "
 "domain, and countless orc raiding parties were driven from the shores."
 msgstr ""
+"V Severních zemích, tam, kde pohoří Dorth přechází do pobřeží, leží zátoka "
+"spojená s mořem úzkým průlivem. V této zátoce leželo město Jotha, patřící "
+"mořskému lidu. Výhodnost tohoto přirozeného přístavu spojená s prosperitou "
+"jeho mořských obyvatel přitahovala mnoho závistivých očí. Přesto nikdo nebyl "
+"schopen soupeřit se silou mořského lidu v jejich vodní domovině. Již "
+"nesčetné skřetí nájezdy byly od pobřeží odraženy."
 
 #. [part]
 #: Dead_Water/scenarios/01_Invasion.cfg:22
@@ -111,6 +130,12 @@ msgid ""
 "display of force. The merman army caught up as the orc band reached the port "
 "city of Tirigaz."
 msgstr ""
+"V roce 626 YW zažila Jotha zatím největší útočný vpád. Král Kai Laudiss a "
+"jeho vojáci nájezdníky zapudili, ale několik dobrých vojáků za to zaplatilo "
+"životem. Když nájezdníci nakonec prchli, Kai Laudiss znovu seřadil hotovost "
+"své armády k pronásledování, rozhodnutý zajistit bezpečí Jothy pomocí "
+"drtivého projevu bojové síly. Armáda mořských lidí dohnala skřetí skupinu, "
+"když dosáhla přístavu Tirigaz."
 
 #. [part]
 #: Dead_Water/scenarios/01_Invasion.cfg:26
@@ -148,27 +173,28 @@ msgstr ""
 #. [side]: type=Dark Sorcerer, id=Mal Kevek
 #: Dead_Water/scenarios/01_Invasion.cfg:56
 msgid "Undead Forces"
-msgstr ""
+msgstr "Nemrtvá vojska"
 
 #. [objective]: condition=win
 #: Dead_Water/scenarios/01_Invasion.cfg:132
 msgid "Defeat Enemy Leader"
-msgstr ""
+msgstr "Poraz nepřátelského vůdce"
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/01_Invasion.cfg:175
 msgid "Is something wrong priestess?"
-msgstr ""
+msgstr "Je něco v nepořádku, kněžko?"
 
 #. [message]: speaker=Cylanna
 #: Dead_Water/scenarios/01_Invasion.cfg:180
 msgid "Maybe. I feel death and decay."
-msgstr ""
+msgstr "Nejspíš. Cítím smrt a zkázu."
 
 #. [message]: speaker=Gwabbo
 #: Dead_Water/scenarios/01_Invasion.cfg:239
 msgid "Back, you fiend! You have not won yet....I will return to finish this."
 msgstr ""
+"Padejte vy zloduši! Ještě jste nevyhráli... Vrátím se a skončím to s vámi."
 
 #. [message]: speaker=Gwabbo
 #: Dead_Water/scenarios/01_Invasion.cfg:250
@@ -176,11 +202,13 @@ msgid ""
 "Kai! We are under attack! Some creatures entered our village and began "
 "slaying our citizens. I barely got out alive myself."
 msgstr ""
+"Kai! Jsme pod útokem! Nějaké stvůry vstoupily do naší vesnice a začaly "
+"vyvražďovat její obyvatele. Stěží jsem sám unikl smrti. "
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/01_Invasion.cfg:255
 msgid "What kind of creatures?"
-msgstr ""
+msgstr "Jaké že stvůry?"
 
 #. [message]: speaker=Gwabbo
 #: Dead_Water/scenarios/01_Invasion.cfg:260
@@ -188,6 +216,8 @@ msgid ""
 "I don't rightly know. They were like men, but they had no skin. Our spears "
 "went right through them, and they just laughed at us."
 msgstr ""
+"Nevím přesně. Vypadají jako lidé, ale nemají žádnou kůži. Naše oštěpy skrz "
+"ně procházely a oni se nám jen vysmívali. "
 
 #. [message]: speaker=Cylanna
 #: Dead_Water/scenarios/01_Invasion.cfg:265
@@ -195,16 +225,18 @@ msgid ""
 "Undead. This will be your first real test as a leader, Kai Krellis. You must "
 "defeat these creatures."
 msgstr ""
+"Nemrtví. Toto bude první skutečná zkouška toho, jaký jsi vůdce, Kai "
+"Krellisi. Musíš porazit ty nestvůry."
 
 #. [message]: speaker=Gwabbo
 #: Dead_Water/scenarios/01_Invasion.cfg:270
 msgid "You should lead us personally so you can get some battle experience."
-msgstr ""
+msgstr "Měl bys nás vést osobně abys získal nějaké bojové zkušenosti."
 
 #. [message]: speaker=Cylanna
 #: Dead_Water/scenarios/01_Invasion.cfg:275
 msgid "I agree. I will protect you as much as I can."
-msgstr ""
+msgstr "Souhlasím. Budu tě ochraňovat, jak jen budu moci."
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/01_Invasion.cfg:280
@@ -903,7 +935,7 @@ msgstr ""
 #. [scenario]: id=Tirigaz
 #: Dead_Water/scenarios/05_Tirigaz.cfg:8
 msgid "Tirigaz"
-msgstr ""
+msgstr "Tirigaz"
 
 #. [part]
 #: Dead_Water/scenarios/05_Tirigaz.cfg:16
@@ -916,7 +948,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Dead_Water/scenarios/05_Tirigaz.cfg:77
 msgid "Destroy all the undead"
-msgstr ""
+msgstr "Znič všechny nemrtvé"
 
 #. [objectives]
 #: Dead_Water/scenarios/05_Tirigaz.cfg:80
@@ -928,12 +960,12 @@ msgstr ""
 #. [side]: id=Marg-Tonz, type=Orcish Sovereign
 #: Dead_Water/scenarios/05_Tirigaz.cfg:108
 msgid "Orcs"
-msgstr ""
+msgstr "Skřeti"
 
 #. [side]
 #: Dead_Water/scenarios/05_Tirigaz.cfg:136
 msgid "Undead"
-msgstr ""
+msgstr "Nemrtví"
 
 #. [message]: speaker=ghost scout
 #: Dead_Water/scenarios/05_Tirigaz.cfg:224
@@ -1643,7 +1675,7 @@ msgstr ""
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1064
 #: Dead_Water/scenarios/09_The_Mage.cfg:594
 msgid "We are lost without our king!"
-msgstr ""
+msgstr "Bez našeho krále jsme ztraceni!"
 
 #. [scenario]: id=The_Flaming_Sword
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:6
@@ -1684,7 +1716,7 @@ msgstr ""
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:225
 #: Dead_Water/scenarios/12_Revenge.cfg:369
 msgid "Death of Kai Krellis"
-msgstr ""
+msgstr "Kai Krellis zemře"
 
 #. [objective]: condition=lose
 #: Dead_Water/utils/dw-utils.cfg:142
@@ -1701,7 +1733,7 @@ msgstr ""
 #: Dead_Water/utils/dw-utils.cfg:146
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:237
 msgid "Run out of Turns"
-msgstr ""
+msgstr "Vyprší počet kol"
 
 #. [message]: speaker=$spy_unit.id
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:281
@@ -2393,12 +2425,12 @@ msgstr ""
 #. [attack]: type=impact
 #: Dead_Water/units/Kraken.cfg:30
 msgid "tentacle"
-msgstr ""
+msgstr "chapadlo"
 
 #. [attack]: type=pierce
 #: Dead_Water/units/Kraken.cfg:41
 msgid "ink"
-msgstr ""
+msgstr "inkoust"
 
 #. [unit_type]: id=Merman Soldier King, race=merman
 #: Dead_Water/units/Soldier_King.cfg:4
@@ -2417,7 +2449,7 @@ msgstr ""
 #: Dead_Water/units/Warrior_King.cfg:39 Dead_Water/units/Soldier_King.cfg:37
 #: Dead_Water/units/Young_King.cfg:33
 msgid "mace"
-msgstr ""
+msgstr "palcát"
 
 #. [unit_type]: id=Soulless Swimmer, race=undead
 #: Dead_Water/units/Soulless_Swimmer.cfg:4
@@ -2466,22 +2498,22 @@ msgstr ""
 #. [object]: id={ID}
 #: Dead_Water/utils/items.cfg:8
 msgid "Storm Trident"
-msgstr ""
+msgstr "Trojzubec bouře"
 
 #. [object]: id={ID}
 #: Dead_Water/utils/items.cfg:11
 msgid "This weapon shoots powerful lightning bolts at your enemies."
-msgstr ""
+msgstr "Tato zbraň umožňuje střílet na tvé nepřátele mocné blesky."
 
 #. [object]: id={ID}
 #: Dead_Water/utils/items.cfg:13
 msgid "Only a merman can use this item."
-msgstr ""
+msgstr "Tento předmět může používat pouze mořský člověk."
 
 #. [effect]: type=fire
 #: Dead_Water/utils/items.cfg:33
 msgid "storm trident"
-msgstr ""
+msgstr "trojzubec bouře"
 
 #. [object]: id={ID}
 #: Dead_Water/utils/items.cfg:54
@@ -2562,11 +2594,13 @@ msgstr ""
 #: Dead_Water/utils/specials.cfg:4
 msgid " This unit is able stun its enemies, disrupting their zones of control."
 msgstr ""
+" Tato jednotka je schopna omráčit své nepřátele a rušit tak jejich zóny "
+"kontroly."
 
 #. [damage]: id=tail_stun
 #: Dead_Water/utils/specials.cfg:9
 msgid "stun"
-msgstr ""
+msgstr "omráčení"
 
 #. [damage]: id=tail_stun
 #: Dead_Water/utils/specials.cfg:10
@@ -2574,3 +2608,6 @@ msgid ""
 "This attack hits so hard that the defender is dazed and can no longer "
 "enforce a zone of control. The effect wears off on the defenders next turn"
 msgstr ""
+"Tento útok má tak drtivý dopad, že zasažená jednotka je omráčena a není "
+"schopna dále zajištovat svou zónu kontroly. Tento efekt pomine na začátku "
+"dalšího kola zasažené jednotky."
