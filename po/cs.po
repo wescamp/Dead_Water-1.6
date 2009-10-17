@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-05-01 11:58+0200\n"
-"PO-Revision-Date: 2009-09-23 20:11+0100\n"
+"PO-Revision-Date: 2009-10-17 17:05+0100\n"
 "Last-Translator: VladimírSlávik <slavik.vladimir@nospam@seznam.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -13,15 +13,16 @@ msgstr ""
 "X-Poedit-Language: Czech\n"
 "X-Poedit-Country: CZECH REPUBLIC\n"
 
+# Název zvolen po delší úvaze a je schválně nedoslovný. Moře tu značí jak vlastní vodu, domov mořských lidí, tak i označení velkého množství.
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:18
 msgid "Dead Water"
-msgstr ""
+msgstr "Moře mrtvých"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:19
 msgid "DW"
-msgstr ""
+msgstr "MM"
 
 #. [campaign]: id=Dead_Water
 #: Dead_Water/_main.cfg:23
@@ -1169,22 +1170,26 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/05_Tirigaz.cfg:392
 msgid "You will only be able to use your keep for one turn."
-msgstr ""
+msgstr "Budeš moci využít svou tvrz pouze po dobu jednoho tahu."
 
 #. [message]: speaker=Marg-Tonz
 #: Dead_Water/scenarios/05_Tirigaz.cfg:457
 msgid "You're still squatting on our land! I warned you."
-msgstr ""
+msgstr "Pořád se placatíte na našem území! Varoval sem vás."
 
 #. [message]: speaker=Marg-Tonz
 #: Dead_Water/scenarios/05_Tirigaz.cfg:491
 msgid "I told you to stay off our land! Now you're in for it."
 msgstr ""
+"Říkal jsem, aby ste se drželi dál od našeho území! Teď dostanete, co ste si "
+"vykoledovali."
 
 #. [message]: speaker=Marg-Tonz
 #: Dead_Water/scenarios/05_Tirigaz.cfg:525
 msgid "I told not to bother the ships! Now you're in for it."
 msgstr ""
+"Říkal jsem, aby ste se drželi dál od lodí! Teď dostanete, co ste si "
+"vykoledovali."
 
 #. [message]: speaker=Marg-Tonz
 #: Dead_Water/scenarios/05_Tirigaz.cfg:558
@@ -1192,13 +1197,15 @@ msgid ""
 "You crazy fish men are attacking us? After we tried to be nice? That's it. "
 "We're going to end you once an for all."
 msgstr ""
+"Ty blázniví rybomuži na nás útočí? Po tom, co sme se snažili bejt hodný? "
+"Máte to mít. Jdem s váma skončit jednou provždy."
 
 #. [message]: speaker=Kai Krellis
 #. [option]: speaker=Kai Krellis
 #: Dead_Water/scenarios/05_Tirigaz.cfg:636
 #: Dead_Water/scenarios/05_Tirigaz.cfg:649
 msgid "Now maybe we can head west undisturbed."
-msgstr ""
+msgstr "Teď snad můžeme nerušeně pokračovat na západ."
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/05_Tirigaz.cfg:647
@@ -1211,6 +1218,8 @@ msgid ""
 "This orc leader has not learned that threatening merfolk is a bad idea. We "
 "shall defeat him before we go."
 msgstr ""
+"Ten skřet se nepoučil, že vyhrožovat mořským lidem není dobrý nápad. Měli "
+"bysme mu dát za vyučenou než poplujem dál."
 
 #. [message]: speaker=second_unit
 #: Dead_Water/scenarios/05_Tirigaz.cfg:682
@@ -1221,7 +1230,7 @@ msgstr "Vypadá to, že ten skřet byl bohatý! Má tu truhlu s nejmíň 100 zla
 #. [message]: speaker=Marg-Tonz
 #: Dead_Water/scenarios/05_Tirigaz.cfg:715
 msgid "I hate mermen!"
-msgstr ""
+msgstr "Nenávidím rybáky!"
 
 #. [scenario]: id=Uncharted_Islands
 #: Dead_Water/scenarios/06_Uncharted_Islands.cfg:8
@@ -1982,6 +1991,8 @@ msgid ""
 "Suddenly, Caladon's strident voice shrieked out louder than seemed possible, "
 "as if there were dozens of men shouting at once."
 msgstr ""
+"Najednou se Kaladonovo volání rozhlaholilo hlasitěji, než by kdo čekal. Jako "
+"by zařvalo tucet mužů najednou."
 
 #. [message]: speaker=Caladon
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:311
@@ -1989,6 +2000,8 @@ msgid ""
 "AGNOVON, I'VE COME FOR YOUR SWORD! TODAY YOU WILL REMEMBER FEAR! Heh heh. "
 "Nice trick, huh?"
 msgstr ""
+"AGNOVONE, PŘIŠEL JSEM SI PRO TVŮJ MEČ! DNES POZNÁŠ, CO JE STRACH!\n"
+"He he. Pěkný trik, co?"
 
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:316
@@ -2009,7 +2022,7 @@ msgstr ""
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:325
 msgid "We are here of our own accord, and we will take that sword."
-msgstr ""
+msgstr "Jsme tu z naší vlastní vůle. Získáme ten meč."
 
 #. [message]: speaker=Mal Govon
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:329
@@ -2017,11 +2030,13 @@ msgid ""
 "The merman speaks. Tell it to go away, Caladon, if it doesn't want to get "
 "hurt."
 msgstr ""
+"Když to říkáš... Kaladone řekni mu, že má vypadnout, pokud nechce přijít k "
+"úrazu."
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:333
 msgid "That does it. Attack!"
-msgstr ""
+msgstr "To už udělal. Útok!"
 
 #. [message]: speaker=Caladon
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:342
@@ -2029,12 +2044,14 @@ msgid ""
 "A word of warning, young Kai. I carry a staff of righteous FLAME. If you let "
 "me die, I will take YOU all with me!"
 msgstr ""
+"Malé varování mladý Kai. Nosím OBÁVANOU ohnivou hůl. Pokud mě necháš zemřít, "
+"vezmu vás VŠECHNY s sebou!"
 
 #. [message]: speaker=Howyrth
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:377
 msgid ""
 "Hello there! Who are you? Were you the ones shouting about taking a sword?"
-msgstr ""
+msgstr "Hej vy tam! Kdo jste? Jsi ten, kdo tu hulákal o převzetí meče?"
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/10_The_Flaming_Sword.cfg:382
@@ -2313,7 +2330,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Dead_Water/scenarios/12_Revenge.cfg:365
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Poraz všechny nepřátelské vůdce"
 
 #. [message]: speaker=Nebthun
 #: Dead_Water/scenarios/12_Revenge.cfg:523
@@ -2321,6 +2338,8 @@ msgid ""
 "Kai Krellis! You live! We thought you and your people had all been killed "
 "when Jotha fell."
 msgstr ""
+"Kai Krellisi! Žiješ! Mysleli jsme, že jste ty a tví lidé všichni zahynuli, "
+"když padla Jotha."
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/12_Revenge.cfg:527
@@ -2328,6 +2347,8 @@ msgid ""
 "No, most of us escaped. I assumed your settlements were far enough away to "
 "be safe. However, you look as if you had seen battle."
 msgstr ""
+"Ne, většina z nás uprchla. Domníval jsem se, že vaše domovina je dostatečně "
+"daleko a jste tak v bezpečí. Přesto, vypadáte jako byste prošli bitvou."
 
 #. [message]: speaker=Nebthun
 #: Dead_Water/scenarios/12_Revenge.cfg:531
@@ -2336,6 +2357,9 @@ msgid ""
 "fouling the waters and making the bay more to their liking. We worry that "
 "they will soon be back to finish with us, and I fear we will not survive."
 msgstr ""
+"Jistě, ačkoli jsme nebyli pod nějakým velkým tlakem. Kreatury se víc "
+"zabývaly zaneřádováním vod a předěláváním zátoky podle svého gusta. Obáváme "
+"se, že se brzy vrátí, aby s námi skoncovaly. Bojím se, že to nepřežijeme."
 
 #. [message]: speaker=Kai Krellis
 #: Dead_Water/scenarios/12_Revenge.cfg:535
@@ -2343,6 +2367,9 @@ msgid ""
 "We come prepared for battle, and have brought help. We will reclaim our home "
 "and make yours safe as well. Mal Ravanal will pay this day."
 msgstr ""
+"Přicházíme připraveni na boj a přinášíme pomoc. Znovu získáme svůj domov a "
+"zabezpečíme ho, stejně jako váš. Přichází den, kdy bude Mal Ravanal těžce "
+"platit."
 
 #. [message]: speaker=Nebthun
 #: Dead_Water/scenarios/12_Revenge.cfg:539
@@ -2356,7 +2383,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Dead_Water/scenarios/12_Revenge.cfg:574
 msgid "At dawn, the mermen got a good look at their opponents."
-msgstr ""
+msgstr "Za svítání mořští lidé zaujali pozici proti svým nepřátelům."
 
 #. [message]: speaker=Tyegea
 #: Dead_Water/scenarios/12_Revenge.cfg:580
@@ -2457,16 +2484,18 @@ msgstr ""
 #: Dead_Water/scenarios/12_Revenge.cfg:883
 msgid "The ankh necklace provides 70% resistance to 'arcane' damage."
 msgstr ""
+"Přívěsek se symbolem života poskytuje 70% odolnost vůči nezemskému útoku."
 
 #. [option]: speaker=$unit.id
 #: Dead_Water/scenarios/12_Revenge.cfg:890
 msgid "I think that could be usefull. I'll take it."
-msgstr ""
+msgstr "Myslím, že by to mohla být užitečná věc. Vezmu si ji."
 
 #. [option]: speaker=$unit.id
 #: Dead_Water/scenarios/12_Revenge.cfg:899
 msgid "It doesn't seem to have helped its previous owner. I don't want it."
 msgstr ""
+"Nevypadá to, že ta věc svému předchozímu držiteli nějak pomohla. Nechci ji."
 
 #. [option]: speaker=$unit.id
 #: Dead_Water/scenarios/12_Revenge.cfg:936
@@ -2793,7 +2822,7 @@ msgstr "plamenný meč"
 #. [object]: id={ID}
 #: Dead_Water/utils/items.cfg:92
 msgid "Ankh Necklace"
-msgstr ""
+msgstr "Přívěšek Života"
 
 #. [message]: speaker=$second_unit.id
 #: Dead_Water/utils/items.cfg:198
@@ -2801,6 +2830,8 @@ msgid ""
 "The human wizard was wearing a ring! Maybe it is magic. Someone should try "
 "it on to see what it does."
 msgstr ""
+"Ten lidský čaroděj nosil prsten! Možná magický. Někdo by si ho měl "
+"vyzkoušet, aby se vidělo, co dělá."
 
 #. [message]: speaker=narrator
 #: Dead_Water/utils/items.cfg:228
@@ -2808,6 +2839,8 @@ msgid ""
 "The bat slips the ring over a claw, and flies straight up, flapping "
 "powerfully."
 msgstr ""
+"Netopýr si navlékl prsten přes dráp. Vyletěl přímo nahoru, jak silněji mával "
+"křídly."
 
 #. [message]: speaker=narrator
 #: Dead_Water/utils/items.cfg:234 Dead_Water/utils/items.cfg:281
@@ -2825,7 +2858,7 @@ msgstr "Měli bysme nechat prsten netopýrovi. Bude s ním víc užitečný."
 #. [option]: speaker=Kai Krellis
 #: Dead_Water/utils/items.cfg:257
 msgid "Someone take that off of him before he hurts himself."
-msgstr "Někdo by ho z něj měl sundat než se sám zraní."
+msgstr "Někdo by ho z něj měl sundat, než se sám zraní."
 
 #. [message]: speaker=unit
 #: Dead_Water/utils/items.cfg:271
